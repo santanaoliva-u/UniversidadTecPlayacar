@@ -1,0 +1,3 @@
+ un automovil iva con una velocidad incia de 150 y se choco alos 450 de velocidad el choco fue alos 10 segundo ssi el movil tenia una masa de 150 gramos ayar insiso a la distancia que recorrio y la fuerza con la que impacto
+
+un obejto lleva una velocidad de de 280 metros sobre segunos alcansa una aceleracion de  13.5 metros sobre segundos cuadrado  recorre  120 kilometros  y genera una fuerza de 198.30 newtons encontra la maasa del cuerpo y el tiempo que tarda en aser el recorrido .
